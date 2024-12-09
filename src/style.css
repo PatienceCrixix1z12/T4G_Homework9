@@ -1,1 +1,8 @@
-    
+p{
+    background-color: rgb(122, 163, 235);
+    color: white;
+    border-radius: 10px;
+    width: 70%;
+    margin: 10px auto;
+    padding: 10px;
+}
